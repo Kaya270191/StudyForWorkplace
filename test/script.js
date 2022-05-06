@@ -57,7 +57,7 @@ const root = document.getElementById('root')
 root.appendChild(div)
 
 // div.remove()
-// div.removeChild(div2)
+div.removeChild(div2)
 
 
 function sayHello(){
